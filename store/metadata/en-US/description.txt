@@ -10,8 +10,9 @@ FEATURES
 • Adhan notifications: hear the adhan when prayer time begins, or choose the standard notification sound; optional early reminder
 • Qibla compass: true-north accurate direction with haptic confirmation when aligned
 • This Hour: a relevant Quranic verse for each prayer period — Arabic, transliteration and meaning
-• How to Pray: a rak'ah-by-rak'ah guide for every prayer
-• Prayer surahs and supplications with Arabic, transliteration and meaning
+• How to Pray: the five daily prayers section by section, rak'ah by rak'ah (Hanafi / Turkish Diyanet method)
+• Other prayers in the same detail: Friday (16 rak'ahs incl. khutbah and zuhr akhir), Eid (extra takbirs), funeral, Tarawih, Tahajjud, Awwabin, Duha, Istikhara and Tasbih
+• Prayer surahs and supplications with Arabic, transliteration and meaning; Ayat al-Kursi plus Ya-Sin and Al-Mulk in authentic Mushaf page layout
 • The 32 Obligations, the 99 Names of Allah, and the life of Prophet Muhammad (pbuh)
 • Browse any date from the calendar
 • Turkish, Arabic and English interface; light/dark theme

@@ -10,8 +10,9 @@ Bulunduğunuz konuma göre namaz vakitlerini gösterir, vakit girdiğinde ezan s
 • Ezan sesli bildirim: vakit girdiğinde ezan okunur veya dilerseniz normal bildirim sesi; vakitten önce ayrıca hatırlatma
 • Kıble pusulası: gerçek kuzeye göre hassas yön, kıbleye dönünce titreşimli onay
 • Vakte Dair: her vakit için Kur'an-ı Kerim'den ilgili bir ayet — Arapçası, okunuşu ve meali
-• Namaz Nasıl Kılınır: her namaz için rekat rekat rehber (Hanefî / Diyanet İlmihali usulü)
-• Namaz sureleri ve duaları: Arapça, okunuş ve mealleriyle
+• Namaz Nasıl Kılınır: beş vakit namaz bölüm bölüm, rekat rekat (Hanefî / Diyanet İlmihali usulü)
+• Diğer namazlar da aynı ayrıntıyla: Cuma (hutbe ve zuhr-i âhir dahil 16 rekat), bayram (zevaid tekbirleri), cenaze, teravih, teheccüd, evvâbin, kuşluk, istihâre ve tesbih namazı
+• Namaz sureleri ve duaları: Arapça, okunuş ve mealleriyle; Âyete'l-Kürsî ile Yâsîn ve Mülk (Tebâreke) sureleri gerçek Mushaf sayfa düzeninde
 • 32 Farz, Esmâü'l-Hüsnâ (99 isim) ve Hz. Muhammed'in (s.a.v.) hayatı
 • Takvimden istediğiniz günün vakitlerini görün
 • Türkçe, Arapça ve İngilizce arayüz; açık/koyu tema
