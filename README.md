@@ -73,3 +73,11 @@ flutter build ipa --release          # App Store / TestFlight için
   git tag -l                 # mevcut sürümleri listele
   git checkout v0.1.0        # istenen sürüme dön
   ```
+
+## Yapılacaklar (TODO)
+
+- [ ] **v1.2.0'ı App Store incelemesine gönder** — Yeni sureler (Duhâ, İnşirah, Tîn, Tekâsür, Asr, Elif Lâm Mîm, Âmene'r-Resûlü) build 13 ile TestFlight'ta; App Store Connect'te 1.2.0 taslağı hazır. What's New metinleri (TR/AR/EN) yazılıp build bağlanacak ve gönderilecek.
+- [ ] **Google Play yayını** — Uygulama Android'de çalışıyor ancak Play Store'da henüz yayınlanmadı. AAB derlemesi, Play Console kaydı, mağaza metinleri (3 dil, "reklam yok" vurgusuyla) ve ekran görüntüleri gerekiyor.
+- [ ] **Self-hosted runner doğrulaması** — Tag push → yerel derleme → TestFlight otomasyonu (`~/actions-runner-vakte`, `.github/workflows/testflight.yml`) kurulu ama servis modunda keychain (errSecInternalComponent) hatası nedeniyle hiç başarıyla çalışmadı; oturum modunda (`./run.sh`) doğrulanacak. Şimdilik yüklemeler elle yapılıyor.
+- [ ] **App Store Connect Support URL güncelle** — Depo `namaz-saatleri` → `vakte` olarak yeniden adlandırıldı; ASC'deki destek adresi eski URL'yi gösteriyor (yönlendirme çalışıyor). Bir sonraki sürüm gönderiminde güncellenecek.
+- [ ] **Mağaza ekran görüntülerini yenile** — Mevcut görüntüler eski arayüzden; iki sekmeli İbadet bölümü ve yeni içerikle güncel build'den yeniden alınabilir.
